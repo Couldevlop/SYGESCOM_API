@@ -1,4 +1,4 @@
-package com.example.sygescom_api;
+package com.sygescom_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
